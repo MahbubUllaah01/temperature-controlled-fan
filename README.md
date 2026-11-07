@@ -1,7 +1,7 @@
 # Temperature-Controlled Fan Speed System (Arduino)
 
 An Arduino-based system that measures room temperature and adjusts a DC fan's speed automatically using PWM. Built as a course project for **Electrical Drives** (6th semester, CSE, International Islamic University Chittagong).
-
+![System diagram](fan_system_diagram.png)
 ## How it works
 
 1. An **LM35** sensor outputs 10 mV per °C.
